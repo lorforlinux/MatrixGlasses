@@ -3,7 +3,7 @@ WiFi enabled 24x8 LED matrix glasses made with ESP8266 and 74HC595.
 
 ## Led glasses Design
 
-![Led glasses Design](images/led-glasses-design.png)
+![Led glasses Design](assets/144_LEDs.png)
 
 
 ## To-do
@@ -12,7 +12,5 @@ WiFi enabled 24x8 LED matrix glasses made with ESP8266 and 74HC595.
 
 
 ## References
-- [dotmatrixtool](https://github.com/stefangordon/dotmatrixtool
-)
-- [led-matrix-editor](https://github.com/xantorohara/led-matrix-editor
-)
+- [dotmatrixtool](https://github.com/stefangordon/dotmatrixtool)
+- [led-matrix-editor](https://github.com/xantorohara/led-matrix-editor)
